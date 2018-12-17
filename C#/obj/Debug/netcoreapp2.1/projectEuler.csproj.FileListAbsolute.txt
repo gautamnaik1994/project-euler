@@ -20,3 +20,14 @@ C:\UwAmp\www\ProjectEuler\Csharp\bin\Debug\netcoreapp2.1\projectEuler.runtimecon
 C:\UwAmp\www\ProjectEuler\Csharp\bin\Debug\netcoreapp2.1\projectEuler.runtimeconfig.dev.json
 C:\UwAmp\www\ProjectEuler\Csharp\bin\Debug\netcoreapp2.1\projectEuler.dll
 C:\UwAmp\www\ProjectEuler\Csharp\bin\Debug\netcoreapp2.1\projectEuler.pdb
+C:\gautam\project-euler\C#\bin\Debug\netcoreapp2.1\projectEuler.deps.json
+C:\gautam\project-euler\C#\bin\Debug\netcoreapp2.1\projectEuler.runtimeconfig.json
+C:\gautam\project-euler\C#\bin\Debug\netcoreapp2.1\projectEuler.runtimeconfig.dev.json
+C:\gautam\project-euler\C#\bin\Debug\netcoreapp2.1\projectEuler.dll
+C:\gautam\project-euler\C#\bin\Debug\netcoreapp2.1\projectEuler.pdb
+C:\gautam\project-euler\C#\obj\Debug\netcoreapp2.1\projectEuler.csprojAssemblyReference.cache
+C:\gautam\project-euler\C#\obj\Debug\netcoreapp2.1\projectEuler.csproj.CoreCompileInputs.cache
+C:\gautam\project-euler\C#\obj\Debug\netcoreapp2.1\projectEuler.AssemblyInfoInputs.cache
+C:\gautam\project-euler\C#\obj\Debug\netcoreapp2.1\projectEuler.AssemblyInfo.cs
+C:\gautam\project-euler\C#\obj\Debug\netcoreapp2.1\projectEuler.dll
+C:\gautam\project-euler\C#\obj\Debug\netcoreapp2.1\projectEuler.pdb
