@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 
 namespace ProjectEuler
 {
@@ -6,8 +7,10 @@ namespace ProjectEuler
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Problem004.Solution());
-             Console.WriteLine(Utils.IsPalindrome(9009));
+            Stopwatch stopwatch = Stopwatch.StartNew();
+            Console.WriteLine(Problem004a.Solution());
+            stopwatch.Stop();
+            Console.WriteLine( "Solved in " +stopwatch.ElapsedMilliseconds + "ms");
         }
     }
 }
