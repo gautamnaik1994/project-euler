@@ -8,7 +8,7 @@ namespace ProjectEuler
         static void Main(string[] args)
         {
             Stopwatch stopwatch = Stopwatch.StartNew();
-            Console.WriteLine(Problem005.Solution());
+            Console.WriteLine(Problem007.Solution());
             stopwatch.Stop();
             Console.WriteLine( "Solved in " +stopwatch.ElapsedMilliseconds + "ms");
         }
